@@ -1,0 +1,25 @@
+header {
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    color: #000000;
+    width: 100%;
+    font-size: 2rem;
+    padding: 16px 24px;
+    box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, 0.10), 0px 1px 2px 0px rgba(0, 0, 0, 0.06);
+}
+
+section > ul {
+    list-style-position: inside;
+    color: black;
+}
+
+header > img {
+    width: 43px;
+    height: 52px;
+    margin-right: 1rem;
+}
+
+header > span {
+    font-weight: 400;
+}
